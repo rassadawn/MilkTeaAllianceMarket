@@ -1,4 +1,5 @@
 # MilkTeaAllianceMarket
+<img src="./milkteaalliance.jpg" alt="Milk Tea Alliance" width="600px">
 
 MilkTeaAlliance Market เป็น Platform ตลาดซื้อขายแลกเปลี่ยนสินค้าออนไลน์ในกลุ่มประเทศพันธมิตรชานม(#MilkTeaAlliance) โดยร้านค้าตั้งราคาและรับเงินเป็น Cryptocurrency ประเภท Stable Coin
 
